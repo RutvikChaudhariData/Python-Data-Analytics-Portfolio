@@ -11,3 +11,8 @@
 - **Objective:** Deduplicate raw datasets, impute missing (`NaN`) values using statistical mean, and compute validated totals.
 - **Language:** Python (Pandas)
 - **Status:** Complete
+
+## Project 3: Regional Profitability & BI Aggregation
+- **Objective:** Engineer profit margins from raw sales data, group metrics by region (`groupby`), rank by profitability, and export automated CSV reports.
+- **Language:** Python (Pandas)
+- **Status:** Complete
