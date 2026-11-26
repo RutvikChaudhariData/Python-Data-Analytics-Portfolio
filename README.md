@@ -41,3 +41,28 @@
 - **Objective:** Perform SQL-equivalent `INNER JOIN` operations (`pd.merge`) across normalized tables and aggregate revenue by customer tier.
 - **Tools:** Python (Pandas)
 - **Status:** Complete
+
+## Project 9: Time-Series & Moving Averages
+- **Objective:** Convert date strings to datetime objects, compute 3-day Simple Moving Averages (`SMA_3`), and track day-over-day percentage growth.
+- **Tools:** Python (Pandas)
+- **Status:** Complete
+
+## Project 10: Pivot Tables & Cross-Tabulation
+- **Objective:** Reshape transactional records into a 2D executive summary matrix by region and product with row totals.
+- **Tools:** Python (Pandas)
+- **Status:** Complete
+
+## Project 11: A/B Test Statistical Significance
+- **Objective:** Evaluate conversion rate lift between Control and Variant groups using a Two-Proportion Z-Test at the 95% confidence level.
+- **Tools:** Python (NumPy)
+- **Status:** Complete
+
+## Project 12: SQL Window Functions
+- **Objective:** Execute `RANK() OVER` and `SUM() OVER` partition queries in SQLite to rank reps and compute regional totals without collapsing rows.
+- **Tools:** Python (SQLite3, Pandas)
+- **Status:** Complete
+
+## Project 13: Nested JSON API Parsing
+- **Objective:** Parse hierarchical JSON payloads, flatten nested fields (`pd.json_normalize`), and aggregate revenue metrics by customer tier.
+- **Tools:** Python (JSON, Pandas)
+- **Status:** Complete
